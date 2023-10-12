@@ -1,0 +1,20 @@
+{"Item":{"name":{"S":"Alex"},"surname":{"S":"Johnson"},"id":{"S":"1234"},"degree":{"S":"Ph.D. in Computer Science"}}}
+{"Item":{"name":{"S":"Sophia"},"surname":{"S":"Miller"},"id":{"S":"2345"},"degree":{"S":"Ph.D. in Physics"}}}
+{"Item":{"name":{"S":"William"},"surname":{"S":"Smith"},"id":{"S":"3456"},"degree":{"S":"Master's in Electrical Engineering"}}}
+{"Item":{"name":{"S":"Olivia"},"surname":{"S":"Brown"},"id":{"S":"4567"},"degree":{"S":"Ph.D. in Biology"}}}
+{"Item":{"name":{"S":"James"},"surname":{"S":"Davis"},"id":{"S":"5678"},"degree":{"S":"Bachelor's in Chemistry"}}}
+{"Item":{"name":{"S":"Emily"},"surname":{"S":"Wilson"},"id":{"S":"6780"},"degree":{"S":"Ph.D. in Political Science"}}}
+{"Item":{"name":{"S":"Liam"},"surname":{"S":"Johnson"},"id":{"S":"7891"},"degree":{"S":"Master's in Economics"}}}
+{"Item":{"name":{"S":"Ava"},"surname":{"S":"Martin"},"id":{"S":"8901"},"degree":{"S":"Ph.D. in Art History"}}}
+{"Item":{"name":{"S":"Noah"},"surname":{"S":"Thompson"},"id":{"S":"9013"},"degree":{"S":"Bachelor's in Medicine"}}}
+{"Item":{"name":{"S":"Isabella"},"surname":{"S":"White"},"id":{"S":"1024"},"degree":{"S":"Ph.D. in Psychology"}}}
+{"Item":{"name":{"S":"Ethan"},"surname":{"S":"Harris"},"id":{"S":"1345"},"degree":{"S":"Master's in Literature"}}}
+{"Item":{"name":{"S":"Mia"},"surname":{"S":"Hall"},"id":{"S":"2346"},"degree":{"S":"Ph.D. in Environmental Sciences"}}}
+{"Item":{"name":{"S":"Jackson"},"surname":{"S":"Adams"},"id":{"S":"3456"},"degree":{"S":"Bachelor's in Law"}}}
+{"Item":{"name":{"S":"Sophie"},"surname":{"S":"Allen"},"id":{"S":"5678"},"degree":{"S":"Ph.D. in Linguistics"}}}
+{"Item":{"name":{"S":"Alexander"},"surname":{"S":"Anderson"},"id":{"S":"5689"},"degree":{"S":"Master's in Education Science"}}}
+{"Item":{"name":{"S":"Oliver"},"surname":{"S":"Baker"},"id":{"S":"6189"},"degree":{"S":"Ph.D. in Architecture"}}}
+{"Item":{"name":{"S":"Emma"},"surname":{"S":"Carter"},"id":{"S":"7891"},"degree":{"S":"Bachelor's in Political Science"}}}
+{"Item":{"name":{"S":"William"},"surname":{"S":"Clark"},"id":{"S":"8012"},"degree":{"S":"Ph.D. in Economics"}}}
+{"Item":{"name":{"S":"Ava"},"surname":{"S":"Cooper"},"id":{"S":"9013"},"degree":{"S":"Master's in Philosophy"}}}
+{"Item":{"name":{"S":"Lucas"},"surname":{"S":"Cruz"},"id":{"S":"1024"},"degree":{"S":"Ph.D. in Sociology"}}}

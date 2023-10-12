@@ -1,0 +1,20 @@
+{"Item":{"exam":{"S":"Mathematics Exam"},"courseId":{"S":"MATH101"},"profId":{"S":"1234"}}}
+{"Item":{"exam":{"S":"Physics Exam"},"courseId":{"S":"PHYS102"},"profId":{"S":"2345"}}}
+{"Item":{"exam":{"S":"Computer Science Exam"},"courseId":{"S":"COMP201"},"profId":{"S":"4567"}}}
+{"Item":{"exam":{"S":"Chemistry Exam"},"courseId":{"S":"CHEM101"},"profId":{"S":"3456"}}}
+{"Item":{"exam":{"S":"Literature Exam"},"courseId":{"S":"LIT101"},"profId":{"S":"7891"}}}
+{"Item":{"exam":{"S":"Economics Exam"},"courseId":{"S":"ECON201"},"profId":{"S":"5678"}}}
+{"Item":{"exam":{"S":"History Exam"},"courseId":{"S":"HIST101"},"profId":{"S":"9013"}}}
+{"Item":{"exam":{"S":"Biology Exam"},"courseId":{"S":"BIO101"},"profId":{"S":"1024"}}}
+{"Item":{"exam":{"S":"Philosophy Exam"},"courseId":{"S":"PHIL101"},"profId":{"S":"1345"}}}
+{"Item":{"exam":{"S":"Psychology Exam"},"courseId":{"S":"PSYCH201"},"profId":{"S":"2346"}}}
+{"Item":{"exam":{"S":"Art Exam"},"courseId":{"S":"ART101"},"profId":{"S":"3456"}}}
+{"Item":{"exam":{"S":"Law Exam"},"courseId":{"S":"LAW101"},"profId":{"S":"5678"}}}
+{"Item":{"exam":{"S":"Languages Exam"},"courseId":{"S":"LANG101"},"profId":{"S":"5689"}}}
+{"Item":{"exam":{"S":"Architecture Exam"},"courseId":{"S":"ARCH101"},"profId":{"S":"6189"}}}
+{"Item":{"exam":{"S":"Political Science Exam"},"courseId":{"S":"POL101"},"profId":{"S":"7891"}}}
+{"Item":{"exam":{"S":"Medicine Exam"},"courseId":{"S":"MED101"},"profId":{"S":"8012"}}}
+{"Item":{"exam":{"S":"Engineering Exam"},"courseId":{"S":"ENG101"},"profId":{"S":"9013"}}}
+{"Item":{"exam":{"S":"Economics Exam"},"courseId":{"S":"ECON101"},"profId":{"S":"1024"}}}
+{"Item":{"exam":{"S":"Education Science Exam"},"courseId":{"S":"EDU101"},"profId":{"S":"1024"}}}
+{"Item":{"exam":{"S":"Art Exam"},"courseId":{"S":"ART201"},"profId":{"S":"1024"}}}
